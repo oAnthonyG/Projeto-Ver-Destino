@@ -2,5 +2,8 @@
 um Site que responde qual vai ser seu destino.
 
 ### Link
-https://oanthonyg.github.io/Projeto-Ver-Destino/
+[YOUR DESTINY](https://www.frontendmentor.io)
 
+### Screenshot
+
+![](./FireShot%20Capture%20-%20Your%20Destiny.png)
