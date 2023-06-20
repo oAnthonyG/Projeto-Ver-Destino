@@ -2,7 +2,7 @@
 um Site que responde qual vai ser seu destino.
 
 ### Link
-[YOUR DESTINY](https://www.frontendmentor.io)
+[YOUR DESTINY]([https://www.frontendmentor.io](https://oanthonyg.github.io/Projeto-Ver-Destino/))
 
 ### Screenshot
 
